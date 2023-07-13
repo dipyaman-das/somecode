@@ -79,6 +79,7 @@ function f(a, b, c) {
 
 var x = 4;
 var y = ['A', 'B', 'C'];
+// y.pop();
 var z = { first: true };
 
 f(z, y, z);
